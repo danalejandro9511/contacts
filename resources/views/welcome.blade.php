@@ -65,19 +65,7 @@
                     Lista de Contactos
                 </div>
                 <div class="container">
-                  <button class="btn btn-primary"><strong>Agregar Contacto</strong></button>
-                  <table id="contacts" class="table">
-                    <thead class="table-dark">
-                      <tr>
-                          <th>Nombre</th>
-                          <th>Apellido</th>
-                          <th>Telefono</th>
-                          <th>Correo</th>
-                          <th>Observaciones</th>
-                          <th>Acciones</th>
-                      </tr>
-                    </thead>
-                  </table>  
+                  <a class="btn btn-primary" href="contacts/"><strong>Ver contactos</strong></a> 
                 </div>
                 
             </div>
